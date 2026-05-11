@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Sisodiya</h1>
 <h3 align="center">Student at the School of Instrumentation, DAVV, pursuing an Integrated M.Tech in IoT (Internet of Things).</h3>
 
-- 🔭 I’m currently working on **snowflake Data Engineering project**
-
-- 🌱 I’m currently learning **Linux, Data warehousing, Machine learning**
+- 🌱 I’m currently learning **Linux, embaded system , SQL,**
 
 - 📫 How to reach me **sisodiyadeepak936@gmail.com**
 
